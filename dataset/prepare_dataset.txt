@@ -1,0 +1,3 @@
+refer to https://github.com/mil-tokyo/bc_learning_sound/tree/master/dataset_gen
+
+python esc_gen.py ./dataset
